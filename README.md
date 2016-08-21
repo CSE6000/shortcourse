@@ -12,7 +12,7 @@ Basic skills for embedded computing
 ## Course Schedule
        | When          | Where  
 ------ |:-------------:| :-----:
-1. [Introduction](slides/scec_1.pdf), [Version control system])((slides/scec_2.pdf)) | 2016-08-22(Mon) 16:00 ~ 19:00 | ASTC 516
+1. [Introduction](slides/scec_1.pdf), [Version control system](slides/scec_2.pdf) | 2016-08-22(Mon) 16:00 ~ 19:00 | ASTC 516
 2. C, Basic computer architecture   | 2016-08-29(Mon) 16:00 ~ 19:00  | ASTC 516 
 
 ## Links ##
