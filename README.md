@@ -1,7 +1,7 @@
 # Short course for embedded computing
 
 ## About the Course ##
-Embedded computing 을 위한 실습 중심의 프로그래밍 중심의 코스 입니다. 산업계에서 널리 사용 하는 형상관리시스템인 GIT 과 embedded computing 의 필수적인 C 를 사용합니다.
+Embedded computing 을 위한 실습 중심의 프로그래밍 중심의 코스 입니다. 산업계에서 널리 사용 하는 형상관리시스템인 Git 과 embedded computing 의 필수적인 C 를 사용합니다.
 
 ##  Goal of Course ##
 Basic skills for embedded computing
