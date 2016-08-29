@@ -13,7 +13,7 @@ Basic skills for embedded computing
        | When          | Where  
 ------ |:-------------:| :-----:
 1. [Introduction](slides/scec_1.pdf), [Version control system](slides/scec_2.pdf) | 2016-08-22(Mon) 16:00 ~ 19:00 | ASTC 516
-2. C, Basic computer architecture   | 2016-08-29(Mon) 16:00 ~ 19:00  | ASTC 516 
+2. [Basic computer architecture](slides/scec_3.pdf), [C](slides/scec_4.pdf)   | 2016-08-29(Mon) 16:00 ~ 19:00  | ASTC 516 
 
 ## Links ##
 * [Visual Studio Community](https://www.visualstudio.com/en-us/downloads/download-visual-studio-vs.aspx)
